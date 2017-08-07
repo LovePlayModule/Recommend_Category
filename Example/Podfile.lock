@@ -1,0 +1,19 @@
+PODS:
+  - Mediator (0.1.0)
+  - Recommend_Category (0.1.0)
+
+DEPENDENCIES:
+  - Mediator
+  - Recommend_Category (from `../`)
+
+EXTERNAL SOURCES:
+  Recommend_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Mediator: 5b8aebadf067de253f3f81900b4bea0909373842
+  Recommend_Category: cd0e9ecaa38e69bebd85137350afa8be958a9a06
+
+PODFILE CHECKSUM: 46c5d9e45bda2aebb3d89b2e9cf9bec82d3b4d62
+
+COCOAPODS: 1.2.1
